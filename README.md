@@ -11,4 +11,5 @@ an IndexedDB API. It features a number of methods taht are useful for soring and
 ![image3](./assets/IMG3.png)
 
 ## Deployed Link
+https://texteditorchallenge19.herokuapp.com/
 
